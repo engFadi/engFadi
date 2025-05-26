@@ -1,8 +1,6 @@
----
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Zha3AyeHpucmN3cXJ4NTUyZDcxMWdvdWs0Z3c2ZHp6c3JmY2xoaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif" height="250"/>
 </div>
----
 
 <h3 align="center">Hi 👋! My name is Fadi and I'm a Computer Engineering Student</h3>
 
