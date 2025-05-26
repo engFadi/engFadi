@@ -50,7 +50,7 @@
 ### 🐍 Contribution Snake Graph
 
 <p align="center">
-  <img src="https://github.com/engFadi/engFadi/blob/main/github-user-contribution.svg" alt="snake contribution graph" />
+  <img src="https://raw.githubusercontent.com/engfadi/engfadi/output/snake.svg" alt="snake contribution graph" />
 </p>
 
 
