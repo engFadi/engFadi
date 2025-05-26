@@ -45,14 +45,4 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=engFadi&theme=tokyonight" />
 </div>
 
----
-
-### 🕹️ My GitHub Contribution Game
-
-<div align="center">
-  <img src="https://github.com/engFadi/engFadi/blob/main/87816636-8bf5-4530-a361-40d7c7555eb7.png" alt="Pacman Contribution Graph" width="700"/>
-</div>
-
----
-
 🧠 *"Stay curious, keep coding."*
