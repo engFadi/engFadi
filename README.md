@@ -1,11 +1,14 @@
-<div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Zha3AyeHpucmN3cXJ4NTUyZDcxMWdvdWs0Z3c2ZHp6c3JmY2xoaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif" height="250"/>
-</div>
-
 <h3 align="center">Hi 👋! My name is Fadi and I'm a Computer Engineering Student</h3>
 
 <p align="center">🎓 3rd Year @ Birzeit University | 🤖 AI Enthusiast | 💡 Always Exploring</p>
 
+---
+
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Zha3AyeHpucmN3cXJ4NTUyZDcxMWdvdWs0Z3c2ZHp6c3JmY2xoaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif" height="250"/>
+</div>
+
+---
 
 ### 📫 Contact Me
 
@@ -15,6 +18,9 @@
   </a>
   <a href="mailto:fadi2004b@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/fadifadfod18" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </div>
 
@@ -47,7 +53,7 @@
 ### 🕹️ My GitHub Contribution Game
 
 <div align="center">
-  <img src="https://github.com/engFadi/engFadi/blob/main/d04f380d-393c-4157-8e4c-ce528cc85cd1.png" alt="Pacman Contribution Graph" width="700"/>
+  <img src="https://github.com/engFadi/engFadi/blob/main/87816636-8bf5-4530-a361-40d7c7555eb7.png" alt="Pacman Contribution Graph" width="700"/>
 </div>
 
 ---
