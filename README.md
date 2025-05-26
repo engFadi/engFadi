@@ -45,6 +45,5 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=engFadi&theme=tokyonight" />
 </div>
 
-<img src="https://raw.githubusercontent.com/engFadi/engFadi/output/snake.svg" alt="Snake animation" />
 
 🧠 *"Stay curious, keep coding."*
