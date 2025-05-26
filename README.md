@@ -45,14 +45,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=engFadi&theme=tokyonight" />
 </div>
 
-### 🐍 Contribution Snake Graph
-
-<p align="center">
-  <img src="https://github.com/engFadi/engFadi/blob/main/github-user-contribution.svg" alt="Snake Contribution Graph" />
-</p>
-
-
-
 
 
 🧠 *"Stay curious, keep coding."*
