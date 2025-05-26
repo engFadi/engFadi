@@ -45,13 +45,12 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=engFadi&theme=tokyonight" />
 </div>
 
----
-
 ### 🐍 Contribution Snake Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/engfadi/engfadi/output/snake.svg" alt="snake contribution graph" />
+  <img src="https://github.com/engFadi/engFadi/blob/main/github-user-contribution.svg" alt="Snake Contribution Graph" />
 </p>
+
 
 
 
