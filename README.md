@@ -45,14 +45,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=engFadi&theme=tokyonight" />
 </div>
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/engFadi/engFadi/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/engFadi/engFadi/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/engFadi/engFadi/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+<img src="https://raw.githubusercontent.com/engFadi/engFadi/output/snake.svg" alt="Snake animation" />
 
 🧠 *"Stay curious, keep coding."*
